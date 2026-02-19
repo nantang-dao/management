@@ -15,7 +15,11 @@
 ·
 <a href="https://bai.ntdao.xyz/"><strong>进入社区助手 (Bai) »</strong></a>
 ·
-<a href="https://github.com/your-org/xiangjian-id/issues">报告 Bug</a>
+<a href="https://github.com/your-org/xiangjian-id/issues]">报告 Bug</a>
+</p>
+
+<p align="center">
+<a href="https://app.safe.global/transactions/history?safe=oeth:0xEd6Cee72c4961c484176BCb46E2cf428b68eE2D3">多签钱包</a>
 </p>
 
 <p align="center">
