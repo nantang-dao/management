@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<a href="https://app.ntdao.xyz/"><strong>登录数字钱包 (Semi) »</strong></a>
+<a href="https://semi.ntdao.xyz/"><strong>登录数字钱包 (Semi) »</strong></a>
 ·
 <a href="https://bai.ntdao.xyz/"><strong>进入社区助手 (Bai) »</strong></a>
 ·
