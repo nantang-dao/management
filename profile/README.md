@@ -5,6 +5,10 @@
 <h1 align="center">社区数字身份 (Community Digital Identity)</h1>
 
 <p align="center">
+<strong>中文</strong> · <a href="./README_EN.md">English</a>
+</p>
+
+<p align="center">
 <strong>一套面向生态社区、乡村建设组织和社区成员的数字身份与协作系统</strong>
 <br />
 连接成员身份、社区协作与真实贡献，让每一次社区参与都能被记录、验证和认可
